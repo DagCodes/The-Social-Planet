@@ -1,4 +1,5 @@
-# The-Social-Planet
+# The-Social-Planet![fig5a](https://user-images.githubusercontent.com/7063273/207452642-5958a634-0b30-461d-a389-0563ba7b0832.jpg)
+
 
 Salem Soin-Voshell(salems1@umbc.edu), Warren Funk(wfunk2@umbc.edu), Dagem Sinke(dsinke1@umbc.edu), Arya Honraopatil(ahonrao1@umbc.edu), Bhargavi Poyekar(bpoyeka1@umbc.edu), Hardeep Dulkoo(hdulkoo1@umbc.edu)
 
