@@ -40,7 +40,8 @@ Esc - quit/close\
 Left Arrow - rotate left\
 Right Arrow - rotate right\
 Up Arrow - rotate up\
-Down Arrow - rotate down
+Down Arrow - rotate down\
+P - Toggle autorotate
 
 ## Dataset Generation
 ### Simulated dataset
