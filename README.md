@@ -23,9 +23,16 @@ The-Social-Planet\
 │	 └── worldcities.csv\
 ├── paper_source\
 │	 ├── figures\
-│	 │	 ├── 20221012_010352000_iOS.jpg\
-│	 │	 ├── Capture.PNG\
-│	 │	 └── modified_bigger.png\
+│	 │	 ├── fig1a.png\
+│	 │	 ├── fig1b.png\
+│	 │	 ├── fig2a.png\
+│	 │	 ├── fig2b.png\
+│	 │	 ├── fig3.png\
+│	 │	 ├── fig4a.png\
+│	 │	 ├── fig4b.png\
+│	 │	 ├── fig5a.png\
+│	 │	 ├── fig5b.png\
+│	 │	 └── fig5c.png\
 │	 └── text\
 │		 ├── final_paper.txt\
 │		 └── final_paper.pdf\
@@ -33,7 +40,7 @@ The-Social-Planet\
 
 ## Use of the Magic Planet
 To display our visualization on the Magic Planet, Processing is required(https://processing.org/). When plugging in the Magic Planet, make sure to set the projector to 1600x1200.\
-Simply open the Processing project under /code/Magic_Planet_Display/Magic_Planet_Display.pde, and run it. For standalone visualization outside of the globe set the boolean standalone to true. If you wish to try zoom, set the boolean for zoom to true. Zoom is unused as it does not display correctly on standalone mode and distorts the globe in such a way that we do not recommend its use.
+Download the repository, then open the Processing project under /code/Magic_Planet_Display/Magic_Planet_Display.pde and run it. For standalone visualization outside of the globe set the boolean standalone to true. If you wish to try zoom, set the boolean for zoom to true. Zoom is unused as it does not display correctly on standalone mode and distorts the globe in such a way that we do not recommend its use.
 
 ### Controls
 Esc - quit/close\
