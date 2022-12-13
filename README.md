@@ -1,6 +1,6 @@
 # The-Social-Planet
 
-need contact info
+Salem Soin-Voshell(salems1@umbc.edu), Warren Funk(wfunk2@umbc.edu), Dagem Sinke(dsinke1@umbc.edu), Arya Honraopatil(ahonrao1@umbc.edu), Bhargavi Poyekar(bpoyeka1@umbc.edu), Hardeep Dulkoo(hdulkoo1@umbc.edu)
 
 The-Social-Planet\
 ├── code\
